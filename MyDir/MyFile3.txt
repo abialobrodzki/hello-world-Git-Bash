@@ -1,0 +1,23 @@
+First name: Arnold
+Last name: Shwarzenegger
+Year of birth:
+Movies:
+	- The Terminator
+	- Total Recall
+	- Predator
+
+First name: Sylvester
+Last name: Stallone
+Year of birth:
+Movies:
+	- Rocky
+	- First Blood (Rambo)
+	- Demolition Man
+
+First name: Bruce
+Last name: Willis
+Year of birth:
+Movies:
+	- Die Hard
+	- Pulp Fiction
+	- Sixth Sense
