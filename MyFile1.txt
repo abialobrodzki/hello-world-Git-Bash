@@ -1,4 +1,5 @@
 First line.
-Fixing a bug
+Fixing a bug.
 Second line.
+Third line.
 Implementing new feature...
