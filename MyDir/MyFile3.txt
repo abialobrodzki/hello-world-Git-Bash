@@ -8,7 +8,7 @@ Movies:
 
 First name: Sylvester
 Last name: Stallone
-Year of birth:
+Year of birth: 1946
 Movies:
 	- Rocky
 	- First Blood (Rambo)
