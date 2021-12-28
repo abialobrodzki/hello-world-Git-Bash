@@ -5,6 +5,8 @@ Movies:
 	- The Terminator
 	- Total Recall
 	- Predator
+	- Conan the Barbarian
+	- True Lies
 
 First name: Sylvester
 Last name: Stallone
@@ -13,6 +15,8 @@ Movies:
 	- Rocky
 	- First Blood (Rambo)
 	- Demolition Man
+	- Tango & Cash
+	- The Specialist
 
 First name: Bruce
 Last name: Willis
@@ -21,3 +25,5 @@ Movies:
 	- Die Hard
 	- Pulp Fiction
 	- Sixth Sense
+	- Twelve Monkeys
+	- The Fifth Element
