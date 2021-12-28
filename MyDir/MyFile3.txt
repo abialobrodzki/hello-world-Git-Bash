@@ -2,28 +2,28 @@ First name: Arnold
 Last name: Shwarzenegger
 Year of birth: 1947
 Movies:
-	- The Terminator
-	- Total Recall
-	- Predator
-	- Conan the Barbarian
-	- True Lies
+	+ The Terminator
+	+ Total Recall
+	+ Predator
+	+ Conan the Barbarian
+	+ True Lies
 
 First name: Sylvester
 Last name: Stallone
 Year of birth: 1946
 Movies:
-	- Rocky
-	- First Blood (Rambo)
-	- Demolition Man
-	- Tango & Cash
-	- The Specialist
+	+ Rocky
+	+ First Blood (Rambo)
+	+ Demolition Man
+	+ Tango & Cash
+	+ The Specialist
 
 First name: Bruce
 Last name: Willis
 Year of birth: 1955
 Movies:
-	- Die Hard
-	- Pulp Fiction
-	- Sixth Sense
-	- Twelve Monkeys
-	- The Fifth Element
+	+ Die Hard
+	+ Pulp Fiction
+	+ Sixth Sense
+	+ Twelve Monkeys
+	+ The Fifth Element
