@@ -16,7 +16,7 @@ Movies:
 
 First name: Bruce
 Last name: Willis
-Year of birth:
+Year of birth: 1955
 Movies:
 	- Die Hard
 	- Pulp Fiction
