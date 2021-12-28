@@ -1,6 +1,6 @@
 First name: Arnold
 Last name: Shwarzenegger
-Year of birth:
+Year of birth: 1947
 Movies:
 	- The Terminator
 	- Total Recall
